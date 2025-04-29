@@ -8,7 +8,6 @@ MedPuncture是一款专门用于穿刺活检术的手术规划和导航软件。
 根据目标区域的位置，规划穿刺路径。穿刺路径应尽量避开重要的脑结构和血管，以减少手术风险。
 使用MedPuncture进行向穿刺活检术，可以显著提高手术的精确性和安全性。
 
-# MedPuncture
 ![image](https://github.com/user-attachments/assets/3118e71e-5fde-41b5-ba26-5b860dd0800c)
 
 MedPuncture 是一个新发布的医疗规划应用程序，旨在提供高效的医疗图像处理和规划功能。以下是该应用程序的主要特性和功能：
